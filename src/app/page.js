@@ -10,11 +10,11 @@ export default async function Home() {
       <header className="text-center space-y-4">
         <h1 className="text-5xl font-bold text-gray-900 mb-4 transform transition-all duration-300 hover:scale-105">
           <span className="bg-gradient-to-r from-red-600 to-orange-500 bg-clip-text text-transparent">
-            LA BELLA PIZZA
+            pizzeria
           </span>
           <span className="ml-3 text-3xl">🍕</span>
         </h1>
-        <p className="text-xl text-gray-600 font-light">Artesanía italiana en cada porción</p>
+        <p className="text-xl text-gray-600 font-light">pizzas italianas</p>
       </header>
 
       <section className="space-y-8">
